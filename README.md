@@ -8,4 +8,5 @@ A Group of cryptography Algorithm written in java
 5-MonoalphabeticCipher
 6-RSA
 7-crypto password
+8- Blowfish
 
